@@ -18,8 +18,8 @@ Dịch Vụ Space Cảm Ơn Bạn Đã Tin Tưởng Và Sử Dụng Dịch Vụ 
 ---///--------------------------------------------------------------\\\---
 game.StarterGui:SetCore("SendNotification", {
       Icon = "rbxassetid://11354741327";
-      Title = "Zen Hub", 
-      Text = "No Key For Now!!",
+      Title = "Mango Hub ", 
+      Text = "by Nguyenx Anh Quyen!?",
        Button1 = "Ok cool",
   })
 
